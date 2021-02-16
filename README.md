@@ -1,2 +1,2 @@
 # Coursera_Capstone
-capstone project notebook
+IBM Data Science on coursera. Capstone project notebook
